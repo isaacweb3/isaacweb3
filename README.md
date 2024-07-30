@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/isaacweb3/isaacweb3/output/snake.svg" alt="Snake animation" />
 
 ###
