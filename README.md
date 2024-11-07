@@ -1,5 +1,5 @@
 ## Olá eu sou isaacweb3👋
-- 🔭 Atualmente trabalhando no back-end
+- 🔭 Atualmente trabalhando no Full-stack
 - 🌱 Estudando Mysql e banco de dados váriados
 - 📫 Contate-me no email : pedroisaacmulleralves5@gmail.com
 - 😄 Pronomes : Ele/Dele
